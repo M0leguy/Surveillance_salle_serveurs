@@ -13,7 +13,7 @@ password = ''
 # Détails de l'email
 sender_email = '' #adresse source
 sender_name = 'Salle des serveurs du SITE 1 '
-sender_app_password = '' #mdp gmail
+sender_app_password = '' #mdp d'application gmail
 recipient_email = 'ziadessaidi.2727@gmail.com' #adresse du destinataire ( administrateur ) 
 email_subject = '🚨 Alerte : Intrusion ou Condition Critique Détectée.'
 
